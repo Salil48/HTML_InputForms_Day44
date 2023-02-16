@@ -12,13 +12,13 @@ body{
     margin:0px auto;
     padding: 2em;
 }
-
 html,input{
     font-family: sans-serif;
 }
 form{
     margin-top:50px;
 }
+
 div{
     margin-bottom: 20px;
     display:flex;
